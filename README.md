@@ -33,5 +33,52 @@
   - **Marketing e Lançamento:** $30,000
   - **Suporte e Manutenção:** $20,000 anuais
 
-**Nota:** Os valores são estimativas e podem variar dependendo das necessidades específicas do projeto e das condições do mercado.
+# Descrição do Projeto
+
+## Nome do Projeto
+**Baralho de Bruxo**
+
+## Descrição
+CardMaster Arena é um jogo de cartas digitais estratégico inspirado em Hearthstone. Nele, os jogadores colecionam e usam cartas para construir decks personalizados e competir em batalhas de cartas baseadas em turnos. O jogo combina elementos de estratégia profunda, coleção de cartas e competição, oferecendo uma experiência rica e envolvente.
+
+## Características Principais
+- **Construção de Deck:** Os jogadores podem montar decks com uma variedade de cartas, incluindo criaturas, feitiços e habilidades especiais. Cada carta tem atributos únicos que influenciam a estratégia do jogo.
+- **Sistema de Batalha por Turnos:** As partidas são jogadas em turnos, onde os jogadores utilizam suas cartas para invocar criaturas, lançar feitiços e atacar o oponente. O objetivo é reduzir a vida do oponente a zero.
+- **Modos de Jogo:** O jogo oferece diversos modos, incluindo:
+  - **Modo Competitivo:** Batalhas contra outros jogadores em tempo real.
+  - **Modo Casual:** Partidas amistosas para prática e diversão.
+  - **Modo Campanha:** Uma série de desafios e missões com recompensas exclusivas.
+- **Sistema de Progressão:** Os jogadores ganham experiência e recompensas ao vencer partidas, completar missões e colecionar cartas raras. Há um sistema de níveis e conquistas para motivar o progresso.
+- **Eventos e Atualizações:** Eventos temporários e atualizações regulares introduzirão novas cartas, modos de jogo e desafios para manter o interesse e a diversão dos jogadores.
+
+## Objetivo
+Proporcionar uma experiência de jogo envolvente e estratégica que combine a profundidade de estratégia de jogos de cartas com a diversão de um ambiente digital, atraindo tanto jogadores novos quanto veteranos do gênero.
+
+---
+
+# Público-Alvo
+
+## Perfil do Jogador
+
+1. **Jogadores de Jogos de Cartas:**
+   - **Interesse:** Entusiastas de jogos de cartas colecionáveis e digitais, como Hearthstone, Magic: The Gathering, e Legends of Runeterra.
+   - **Necessidades:** Buscam um jogo que ofereça uma experiência estratégica profunda, variedade de cartas, e uma comunidade ativa.
+
+2. **Fãs de Estratégia e Competição:**
+   - **Interesse:** Jogadores que gostam de desafios estratégicos e competição, seja em jogos de cartas ou outros gêneros, como jogos de tabuleiro e eSports.
+   - **Necessidades:** Desejam um jogo com mecânicas de estratégia bem desenvolvidas, modos de jogo competitivos, e uma plataforma para mostrar suas habilidades.
+
+3. **Novos Jogadores de Cartas:**
+   - **Interesse:** Indivíduos que estão começando a se interessar por jogos de cartas e buscam uma entrada amigável no gênero.
+   - **Necessidades:** Precisam de um jogo acessível, com tutoriais e modos de jogo que ajudem na curva de aprendizado, e que ofereça uma progressão clara.
+
+4. **Jogadores de Jogos Digitais e Mobile:**
+   - **Interesse:** Usuários que jogam frequentemente em PC e dispositivos móveis, e estão abertos a experimentar novos tipos de jogos.
+   - **Necessidades:** Procuram jogos que ofereçam uma experiência fluida tanto em dispositivos móveis quanto em PC, com suporte para jogo em tempo real e atualizações regulares.
+
+## Comportamento e Preferências
+- **Interatividade:** Preferem jogos que oferecem interação social, como competições contra amigos e participação em eventos comunitários.
+- **Colecionismo:** Valorizam a capacidade de colecionar e desbloquear cartas e itens exclusivos.
+- **Engajamento:** Apreciam atualizações frequentes e novos conteúdos que mantêm o jogo fresco e desafiador.
+
 
