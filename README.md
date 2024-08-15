@@ -127,3 +127,8 @@ Proporcionar uma experiência de jogo envolvente e estratégica, que combine a p
 - **Planejar e Implementar Ajustes:** Basear as melhorias nas análises de feedback e dados coletados após o lançamento.
 - **Continuar o Desenvolvimento:** Manter o desenvolvimento contínuo com foco na inovação e na satisfação dos jogadores.
 
+## Links
+
+Meu Jogo: https://github.com/GabrielFAlves/jogo
+Grupo: https://github.com/gvfirmeza/OceansWrath
+
